@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9c4d54-96dc-40c5-aa57-fb068e4ebd39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ejercicio 10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio 11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio 12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio 13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio 9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio 11.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio 12.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio10.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio13.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listas y tuplas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,13 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/yandy/Desktop/DONAPEA/DAPI/P.02.04"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yandy/Desktop/DONAPEA/DAPI/PracticaD205&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ejercicio 13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="P.02.04" />
